@@ -10,7 +10,7 @@ ls
 
 如下图所示，则表明没有所需要这俩文件
 
-[<img src="[D:\Users\User\Desktop\git练习\images\image-20250319090259049.png](https://github.com/zjxxsr/zjx_git/blob/main/images/image-20250319090259049.png)" alt="image-20250319090259049" />](https://github.com/zjxxsr/zjx_git/blob/main/images/image-20250319090259049.png)
+[[<img src="[D:\Users\User\Desktop\git练习\images\image-20250319090259049.png](https://github.com/zjxxsr/zjx_git/blob/main/images/image-20250319090259049.png)" alt="image-20250319090259049" />](https://github.com/zjxxsr/zjx_git/blob/main/images/image-20250319090259049.png)](https://github.com/zjxxsr/zjx_git/blob/main/images/image-20250319090259049.png)
 
 ##### 第二步：生成ssh key
 
