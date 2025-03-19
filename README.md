@@ -10,7 +10,7 @@ ls
 
 如下图所示，则表明没有所需要这俩文件
 
-![image](https://github.com/zjxxsr/zjx_git/blob/main/images/image-20250319091544485.png)
+![image](https://github.com/zjxxsr/zjx_git/blob/main/images/image-20250319090259049.png)
 
 ##### 第二步：生成ssh key
 
@@ -23,8 +23,7 @@ ssh-keygen: 这是命令的主程序，用于生成、管理和转换认证密�
 ```
 
 生成后效果如下
-
-![image-20250319091111437](D:\Users\User\Desktop\git练习\images\image-20250319091111437.png)
+![image](https://github.com/zjxxsr/zjx_git/blob/main/images/image-20250319091111437.png)
 
 ##### 第三步：获取ssh key公钥内容（id_rsa.pub）
 
@@ -34,22 +33,19 @@ cat id_rsa.pub
 ```
 
 效果如下（由于隐私问题所以随机部分打了马赛克）
-
-![image-20250319091300519](D:\Users\User\Desktop\git练习\images\image-20250319091300519.png)
+![image](https://github.com/zjxxsr/zjx_git/blob/main/images/image-20250319091300519.png)
 
 图一
 
 ##### 第四步：Github账号上添加公钥
+![image](https://github.com/zjxxsr/zjx_git/blob/main/images/image-20250319091514937.png)
 
-![image-20250319091514937](D:\Users\User\Desktop\git练习\images\image-20250319091514937.png)
+![image](https://github.com/zjxxsr/zjx_git/blob/main/images/image-20250319091544485.png)
 
-![image-20250319091544485](C:\Users\User\AppData\Roaming\Typora\typora-user-images\image-20250319091544485.png)
-
-![image-20250319091731856](D:\Users\User\Desktop\git练习\images\image-20250319091731856.png)
+![image](https://github.com/zjxxsr/zjx_git/blob/main/images/image-20250319091731856.png)
 
 点击New SSH key
-
-![image-20250319091840417](D:\Users\User\Desktop\git练习\images\image-20250319091840417.png)
+![image](https://github.com/zjxxsr/zjx_git/blob/main/images/image-20250319091840417.png)
 
 ```
 title：去一个标题
