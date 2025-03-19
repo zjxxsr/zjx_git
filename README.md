@@ -63,8 +63,7 @@ git config user.email 邮箱，方便联系，也可以随便填
 ```
 
 ##### 6、添加远程仓库`origin`
-
-![image-20250319094734528](D:\Users\User\Desktop\git练习\images\image-20250319094734528.png)
+![image](https://github.com/zjxxsr/zjx_git/blob/main/images/image-20250319094734528.png)
 
 找到自己的仓库，然后点击左边的code，选择ssh，然后复制
 
